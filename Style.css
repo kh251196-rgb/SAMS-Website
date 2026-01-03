@@ -85,7 +85,9 @@ h1 {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  gap: 10p
+  gap: 10px;
+}
+
 }
 /* Login Page */
 .login {
@@ -139,3 +141,4 @@ h1 {
 .login-links a:hover {
   text-decoration: underline;
 }
+
