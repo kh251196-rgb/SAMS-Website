@@ -65,7 +65,7 @@ h1 {
 
 .flight-form button {
   margin-top: 15px;
-  padding: 10p
+  padding: 10px;
   cursor: pointer;
 }
 
@@ -85,9 +85,7 @@ h1 {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  gap: 10px;
-}
-
+  gap: 10p
 }
 /* Login Page */
 .login {
@@ -141,5 +139,3 @@ h1 {
 .login-links a:hover {
   text-decoration: underline;
 }
-
-
